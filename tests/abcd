@@ -1,1 +1,19 @@
 abcd
+
+git Commands
+git init
+git status
+git add .
+git add .github/
+git commit -m "Initial commit"
+git push
+git pull
+git clone <repository-url>
+git branch
+git checkout <branch-name>
+git switch <branch-name>
+git log
+
+git stash      - will move to temporary location
+git pull
+git stash pop  - will take back the content from temporary location
