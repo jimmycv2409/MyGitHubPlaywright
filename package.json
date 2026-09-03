@@ -1,0 +1,23 @@
+{
+  "name": "mygithubplaywright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmycv2409/MyGitHubPlaywright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jimmycv2409/MyGitHubPlaywright/issues"
+  },
+  "homepage": "https://github.com/jimmycv2409/MyGitHubPlaywright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.4.1"
+  }
+}
