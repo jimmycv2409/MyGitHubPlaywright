@@ -11,4 +11,4 @@ test.describe('Handling login test cases', async () => {
   await page.locator('[data-test="logout-sidebar-link"]').click();
 	});
 
-})
+}) 
